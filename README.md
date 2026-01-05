@@ -16,9 +16,9 @@ All practice code is currently written in a single Python file as part of my ear
   (Contains all practice code from Day 1 to Day 6)
 
 ## Tools Used
-- Python
-- VS Code
-- jupyter(optional)
+- Python language
+- VS Code(optional)
+- jupyter
 - GitHub
 
 ## Note
