@@ -11,6 +11,7 @@ All practice code is currently written in a single Python file as part of my ear
 - Conditional statements (if-else)
 - Loops (for, while)
 - Basic practice programs
+- DSA practise
 
 ## Tools Used
 - Python language
